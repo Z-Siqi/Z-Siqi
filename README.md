@@ -2,7 +2,7 @@ For convenience, my package names will all use `sqz` as the signature *(`example
 
 ***
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Z-Siqi\&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Z-Siqi&include_all_commits=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 [![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Z-Siqi&layout=compact&langs_count=10&exclude_repo=iQOO-Z1-kernel,canyie.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
